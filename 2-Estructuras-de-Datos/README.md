@@ -6,4 +6,4 @@ En esta sección, encontrarás mis implementaciones de diversas estructuras de d
 
 ## Proyectos de esta materia:
 
-* **Nombre del Proyecto 1: (próximamente...)**
+* **Nombre del Proyecto 1**: (próximamente...)
