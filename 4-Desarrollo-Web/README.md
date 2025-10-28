@@ -1,4 +1,4 @@
-# 📁 4. Desarrollo Web
+#  4. Desarrollo Web
 
 Esta sección contiene los proyectos donde he construido aplicaciones y sitios web, aplicando tecnologías del lado del cliente (frontend) y del lado del servidor (backend).
 
