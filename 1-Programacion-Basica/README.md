@@ -6,4 +6,4 @@ En esta sección encontrarás los proyectos y tareas fundamentales donde apliqu�
 
 ## Proyectos de esta materia:
 
-* **[Nombre del Proyecto 1]**: (próximamente...)
+* **Nombre del Proyecto 1**: (próximamente...)
